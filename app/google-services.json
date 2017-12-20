@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629459069401",
+    "firebase_url": "https://lifesaver-3180d.firebaseio.com",
+    "project_id": "lifesaver-3180d",
+    "storage_bucket": "lifesaver-3180d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629459069401:android:eec3ab9deb36706c",
+        "android_client_info": {
+          "package_name": "practice.hbk.com.lifesaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629459069401-h4b8eig33mlaq0tsl1dpsvjha61iaf3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "practice.hbk.com.lifesaver",
+            "certificate_hash": "44ce8d5aab2ef1f1fced8239b5e6b626efd473a9"
+          }
+        },
+        {
+          "client_id": "629459069401-pqv3nkth6i16v2dkiatjuto80iueahqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5I_3WIcJstwydDUrjjLtgx4HayVxIoeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629459069401-pqv3nkth6i16v2dkiatjuto80iueahqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
